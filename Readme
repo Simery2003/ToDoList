@@ -1,0 +1,20 @@
+/**
+ * README for TodoListApp
+ * 
+ * This is a Java application that implements a Todo List using Object-Oriented Programming (OOP) concepts.
+ * 
+ * Features:
+ * - Allows users to Create,Delete,Display,Mark as completed,Save,Load,Exit the console in a Todo List.
+ * - Supports task prioritization and due dates.
+ * - Provides functionality to mark tasks as completed.     
+ * 
+ * Usage:
+ * 1. Run the TodoListApp.java file to start the application.
+ * 2. Follow the on-screen instructions to interact with the Todo List.
+ * 
+ * Dependencies:
+ * - This application requires Java Development Kit (JDK) version 8 or above.
+ * 
+ * Author: [Simery Kanna]
+ * Date: [23-11-23]
+ */
